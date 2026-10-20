@@ -1,0 +1,4 @@
+modelo,f1_cv_treino,auc_cv_treino,f1_teste_alta,precisao_teste_alta,recall_teste_alta,auc_teste
+Regressão Logística,,,0.489,0.379,0.688,0.85
+RF padrão,0.621,0.922,0.579,0.5,0.688,
+RF otimizada (limiar 0.61),0.641,0.917,0.629,0.579,0.688,0.892
